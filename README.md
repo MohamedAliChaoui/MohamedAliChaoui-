@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Mohamed%20Ali%20Chaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=MACHINE%20LEARNING%20%20%7C%20%20RAG%20%26%20NLP%20%20%7C%20%20ING%C3%89NIERIE%20IA&descSize=14&descAlignY=59" alt="Mohamed Ali Chaoui — Machine Learning, RAG & NLP, Ingénierie IA" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=210&section=header&text=Mohamed%20Ali%20Chaoui&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=MACHINE%20LEARNING%20%20%7C%20%20RAG%20%2F%20NLP%20%20%7C%20%20ING%C3%89NIERIE%20IA&descSize=14&descAlignY=59" alt="Mohamed Ali Chaoui — Machine Learning, RAG / NLP, Ingénierie IA" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=55&lines=Du+g%C3%A9nie+logiciel+%C3%A0+l'Intelligence+Artificielle.;RAG+from+scratch+%7C+IA+D%C3%A9cisionnelle+%7C+Recherche+Vectorielle.;Des+notebooks+aux+syst%C3%A8mes+de+production." alt="Du génie logiciel à l'Intelligence Artificielle. RAG from scratch | IA Décisionnelle | Recherche Vectorielle." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=55&lines=Du+g%C3%A9nie+logiciel+%C3%A0+l'Intelligence+Artificielle.;RAG+from+scratch+%C2%B7+IA+D%C3%A9cisionnelle+%C2%B7+pgvector.;Des+notebooks+aux+syst%C3%A8mes+de+production." alt="Du génie logiciel à l'Intelligence Artificielle. RAG from scratch · IA Décisionnelle · pgvector." />
 
 **Étudiant en Master Informatique · Parcours Intelligence Artificielle**  
 Université de Bordeaux · Bordeaux, France 📍
@@ -18,6 +18,7 @@ Université de Bordeaux · Bordeaux, France 📍
 </a>
 
 </div>
+
 
 ---
 
